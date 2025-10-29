@@ -1,5 +1,6 @@
 # Classical-Computer-Vision-Algorithms-for-Lane-Detection
-This project implements and demonstrates core classical computer vision algorithms—Hough Transform (lines, circles, ellipses) and Template Matching—on the TuSimple road lane detection dataset. It is designed as a practical exploration of traditional CV techniques, as required for Unit 3 of most university machine learning and computer vision courses.
+This project implements and demonstrates core classical computer vision algorithms
+Hough Transform (lines, circles, ellipses) and Template Matching on the TuSimple road lane detection dataset. It is designed as a practical exploration of traditional CV techniques, as required for Unit 3 of most university machine learning and computer vision courses.
 
 Features
 Hough Line Detection: Identifies straight lanes and road boundaries in real driving scenes using the Hough Transform.
